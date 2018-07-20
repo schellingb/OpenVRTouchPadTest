@@ -1,0 +1,8 @@
+.vs/*
+Debug/*
+Release/*
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.db
